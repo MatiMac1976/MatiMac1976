@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola soy Matías!!!👋
+
+Actualmente soy estudiante en un Bootcamp Java Developer dictado por Education IT y la Univeridad de Vicente López
 
 <!--
 **MatiMac1976/MatiMac1976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
